@@ -1,0 +1,57 @@
+{
+  "comment": "Names data - contacts.json",
+  "contacts": [
+    {
+      "name": "Алексей",
+      "phone_number": "+375 29 6572447"
+    },
+    {
+      "name": "Екатерина",
+      "phone_number": "+375 32 0863922"
+    },
+    {
+      "name": "Анна",
+      "phone_number": "+375 33 1112512"
+    },
+    {
+      "name": "Дмитрий",
+      "phone_number": "+375 33 6183688"
+    },
+    {
+      "name": "Павел",
+      "phone_number": "+375 44 2275544"
+    },
+    {
+      "name": "Кирилл",
+      "phone_number": "+375 15 3810831"
+    },
+    {
+      "name": "Мария",
+      "phone_number": "+375 32 2417563"
+    },
+    {
+      "name": "Валентин",
+      "phone_number": "+375 34 5288381"
+    },
+    {
+      "name": "Антон",
+      "phone_number": "+375 33 1243931"
+    },
+    {
+      "name": "Максим",
+      "phone_number": "+375 33 9308466"
+    },
+    {
+      "name": "Андрей",
+      "phone_number": "+375 33 2053386"
+    },
+    {
+      "name": "Дарья",
+      "phone_number": "+375 29 7764331"
+    },
+    {
+      "name": "Татьяна",
+      "phone_number": "+375 29 1919819"
+    }
+  ]
+}
