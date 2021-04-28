@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ContactsActivity"
+    tools:menu="@menu/contacts_actions"
+    tools:viewBindingIgnore="true"
+    >
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/contacts"
+        android:name="dev.androidbroadcast.toolsattributes.ContactsFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout="@layout/fragment_contacts"
+        tools:menu="@menu/contacts_actions"
+        tools:viewBindingIgnore="true"
+        />
+
+</FrameLayout>
